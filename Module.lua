@@ -106,7 +106,7 @@ local Themes = {
 		TextFieldAccent = Color3.fromRGB(255,255,255)
 	},
 	Aqua = {
-		MainFrame = Color3.fromRGB(255,255,255),
+		MainFrame = Color3.fromRGB(4, 181, 100),
 		Minimise = Color3.fromRGB(219, 210, 202),
 		MinimiseAccent = Color3.fromRGB(219, 210, 202),
 		Maximise = Color3.fromRGB(189, 183, 177),
