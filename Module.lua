@@ -137,10 +137,10 @@ local Themes = {
 		TextField = Color3.fromRGB(175,175,175),
 		TextFieldAccent = Color3.fromRGB(255,255,255)
 	},
-	Jester = {
-		MainFrame = Color3.fromRGB(255,255,255),
-		Minimise = Color3.fromRGB(219, 210, 202),
-		MinimiseAccent = Color3.fromRGB(219, 210, 202),
+	Toxin = {
+		MainFrame = Color3.fromRGB(124, 252, 0),
+		Minimise = Color3.fromRGB(124, 252, 0),
+		MinimiseAccent = Color3.fromRGB(1119, 221, 119),
 		Maximise = Color3.fromRGB(189, 183, 177),
 		MaximiseAccent = Color3.fromRGB(189, 183, 177),
 		NavBar = Color3.fromRGB(219, 68, 103),
